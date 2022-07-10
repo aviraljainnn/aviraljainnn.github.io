@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: aviraljain.me
+Token: 7b6be2643e390753f2ee77826dcc9c9b99b4e12b7861e49f1fea1c23c1f28876
